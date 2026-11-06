@@ -1,0 +1,11 @@
+{
+  "name": "Recanto Pet",
+  "short_name": "Recanto Pet",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F0FAFE",
+  "theme_color": "#1EB8E6",
+  "icons": [
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png" }
+  ]
+}

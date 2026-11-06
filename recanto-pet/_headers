@@ -1,0 +1,9 @@
+# Cloudflare Pages
+# Fotos e ícones: cache de 30 dias. Ao trocar uma foto, salve com um nome novo para todo mundo ver na hora.
+/assets/*
+  Cache-Control: public, max-age=2592000
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
