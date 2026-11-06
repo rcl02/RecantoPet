@@ -12,7 +12,7 @@ robots.txt, sitemap.xml, _headers (cache do Cloudflare Pages)
 ```
 
 ## Editar textos
-Abra `index.html` e procure por `EDITAR` ou `[Preencher`. Ainda faltam: vacinas exigidas, busca e entrega, e os 3 depoimentos.
+Abra `index.html` e procure por `EDITAR` ou `[Preencher`. Os depoimentos são trechos de avaliações do Google Maps.
 
 ## Trocar ou adicionar uma foto
 Cada foto tem 2 versões em `assets/img/`: `nome-640.webp` e `nome-1080.webp` (largura em pixels). Os originais em alta ficam em `Desktop/RecantoPet-originais/`, fora do projeto, para não serem publicados.
